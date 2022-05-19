@@ -1,0 +1,180 @@
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.exe
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.deps.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.dev.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csprojAssemblyReference.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfoInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CoreCompileInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.MvcApplicationPartsAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.input.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.output.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorCoreGenerate.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CopyComplete
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.Manifest.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.xml
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.genruntimeconfig.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Cadastro.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Editar.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Lista.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.exe
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.deps.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.dev.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csprojAssemblyReference.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfoInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CoreCompileInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.MvcApplicationPartsAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.input.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.output.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorCoreGenerate.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Cadastro.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Editar.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Lista.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CopyComplete
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.Manifest.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.xml
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2 - Rascunho\obj\Debug\netcoreapp3.1\ATIVIDADE_2.genruntimeconfig.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.exe
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.deps.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.dev.json
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csprojAssemblyReference.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfoInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CoreCompileInputs.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.MvcApplicationPartsAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.input.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.output.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorCoreGenerate.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Cadastro.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Editar.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Lista.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cs
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CopyComplete
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.Manifest.cache
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.xml
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+E:\ARQUIVOS P\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.genruntimeconfig.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\appsettings.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.exe
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.deps.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.runtimeconfig.dev.json
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.dll
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csprojAssemblyReference.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfoInputs.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.AssemblyInfo.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CoreCompileInputs.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.MvcApplicationPartsAssemblyInfo.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorAssemblyInfo.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.input.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.TagHelpers.output.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorCoreGenerate.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Cadastro.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Editar.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\PacotesTuristicos\Lista.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.RazorTargetAssemblyInfo.cs
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.Views.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.csproj.CopyComplete
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.Manifest.cache
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE_2.StaticWebAssets.xml
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.dll
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.pdb
+A:\T.I-PROGRAMAÇÃO\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\UC04-Estruturar e implementar banco de dados para aplicacoes web\ATIVIDADE_2\ATIVIDADE_2\obj\Debug\netcoreapp3.1\ATIVIDADE_2.genruntimeconfig.cache
